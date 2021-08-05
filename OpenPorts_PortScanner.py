@@ -1,3 +1,7 @@
+# OpenPorts > PortScanner > windows
+
+
+#imports
 import socket
 
 ip = socket.gethostbyname(socket.gethostname()) # O meu IP
