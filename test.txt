@@ -1,8 +1,0 @@
-python
-javascript
-java
-c#
-node
-r
-cSQL
-
